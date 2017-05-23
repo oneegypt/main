@@ -1,0 +1,351 @@
+[04-May-2015 13:32:34 EST] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/oneegypt/public_html/1egypt/app/controllers/RegistrationController.php on line 23
+[04-May-2015 13:54:52 EST] PHP Parse error:  syntax error, unexpected ':' in /home/oneegypt/public_html/1egypt/app/controllers/RegistrationController.php on line 78
+[04-May-2015 13:55:13 EST] PHP Parse error:  syntax error, unexpected ':' in /home/oneegypt/public_html/1egypt/app/controllers/RegistrationController.php on line 79
+[04-May-2015 14:01:21 EST] PHP Fatal error:  Trait 'UserTrait' not found in /home/oneegypt/public_html/1egypt/app/models/Attribute.php on line 5
+[04-May-2015 23:17:34 EST] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/oneegypt/public_html/1egypt/app/routes.php on line 41
+[04-May-2015 23:17:53 EST] PHP Parse error:  syntax error, unexpected end of file in /home/oneegypt/public_html/1egypt/app/routes.php on line 47
+[04-May-2015 23:25:57 EST] PHP Fatal error:  Class 'Post' not found in /home/oneegypt/public_html/1egypt/app/controllers/HomeController.php on line 68
+[04-May-2015 23:27:08 EST] PHP Fatal error:  Class 'Post' not found in /home/oneegypt/public_html/1egypt/app/controllers/HomeController.php on line 68
+[05-May-2015 07:57:26 EST] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/oneegypt/public_html/1egypt/app/controllers/HomeController.php on line 103
+[05-May-2015 08:42:19 EST] PHP Fatal error:  Call to undefined method Illuminate\Database\Eloquent\Collection::orderBy() in /home/oneegypt/public_html/1egypt/app/views/comments.php on line 2
+[05-May-2015 08:42:21 EST] PHP Fatal error:  Call to undefined method Illuminate\Database\Eloquent\Collection::orderBy() in /home/oneegypt/public_html/1egypt/app/views/comments.php on line 2
+[05-May-2015 08:57:10 EST] PHP Fatal error:  Call to a member function save() on a non-object in /home/oneegypt/public_html/1egypt/app/controllers/HomeController.php on line 65
+[05-May-2015 08:58:05 EST] PHP Fatal error:  Call to a member function save() on a non-object in /home/oneegypt/public_html/1egypt/app/controllers/HomeController.php on line 65
+[05-May-2015 11:20:40 EST] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: search_object' in /home/oneegypt/public_html/1egypt/app/routes.php:66
+Stack trace:
+#0 /home/oneegypt/public_html/1egypt/app/routes.php(66): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/oneegypt/...', 66, Array)
+#1 [internal function]: {closure}()
+#2 /home/oneegypt/public_html/1egypt/bootstrap/compiled.php(5398): call_user_func_array(Object(Closure), Array)
+#3 /home/oneegypt/public_html/1egypt/bootstrap/compiled.php(5065): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#4 /home/oneegypt/public_html/1egypt/bootstrap/compiled.php(5053): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#5 /home/oneegypt/public_html/1egypt/bootstrap/compiled.php(715): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#6 /home/oneegypt/public_html/1egypt/bootstrap/compiled.php(696): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#7 /home/oneegy in /home/oneegypt/public_html/1egypt/app/routes.php on line 66
+[05-May-2015 11:20:40 EST] PHP Fatal error:  Call to a member function url() on a non-object in /home/oneegypt/public_html/1egypt/app/routes.php on line 66
+[05-May-2015 11:20:46 EST] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: search_object' in /home/oneegypt/public_html/1egypt/app/routes.php:66
+Stack trace:
+#0 /home/oneegypt/public_html/1egypt/app/routes.php(66): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/oneegypt/...', 66, Array)
+#1 [internal function]: {closure}()
+#2 /home/oneegypt/public_html/1egypt/bootstrap/compiled.php(5398): call_user_func_array(Object(Closure), Array)
+#3 /home/oneegypt/public_html/1egypt/bootstrap/compiled.php(5065): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#4 /home/oneegypt/public_html/1egypt/bootstrap/compiled.php(5053): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#5 /home/oneegypt/public_html/1egypt/bootstrap/compiled.php(715): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#6 /home/oneegypt/public_html/1egypt/bootstrap/compiled.php(696): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#7 /home/oneegy in /home/oneegypt/public_html/1egypt/app/routes.php on line 66
+[05-May-2015 11:20:46 EST] PHP Fatal error:  Call to a member function url() on a non-object in /home/oneegypt/public_html/1egypt/app/routes.php on line 66
+[05-May-2015 11:21:33 EST] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: search_object' in /home/oneegypt/public_html/1egypt/app/routes.php:66
+Stack trace:
+#0 /home/oneegypt/public_html/1egypt/app/routes.php(66): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/oneegypt/...', 66, Array)
+#1 [internal function]: {closure}()
+#2 /home/oneegypt/public_html/1egypt/bootstrap/compiled.php(5398): call_user_func_array(Object(Closure), Array)
+#3 /home/oneegypt/public_html/1egypt/bootstrap/compiled.php(5065): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#4 /home/oneegypt/public_html/1egypt/bootstrap/compiled.php(5053): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#5 /home/oneegypt/public_html/1egypt/bootstrap/compiled.php(715): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#6 /home/oneegypt/public_html/1egypt/bootstrap/compiled.php(696): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#7 /home/oneegy in /home/oneegypt/public_html/1egypt/app/routes.php on line 66
+[05-May-2015 11:21:33 EST] PHP Fatal error:  Call to a member function url() on a non-object in /home/oneegypt/public_html/1egypt/app/routes.php on line 66
+[05-May-2015 11:21:50 EST] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: search_object' in /home/oneegypt/public_html/1egypt/app/routes.php:66
+Stack trace:
+#0 /home/oneegypt/public_html/1egypt/app/routes.php(66): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/oneegypt/...', 66, Array)
+#1 [internal function]: {closure}()
+#2 /home/oneegypt/public_html/1egypt/bootstrap/compiled.php(5398): call_user_func_array(Object(Closure), Array)
+#3 /home/oneegypt/public_html/1egypt/bootstrap/compiled.php(5065): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#4 /home/oneegypt/public_html/1egypt/bootstrap/compiled.php(5053): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#5 /home/oneegypt/public_html/1egypt/bootstrap/compiled.php(715): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#6 /home/oneegypt/public_html/1egypt/bootstrap/compiled.php(696): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#7 /home/oneegy in /home/oneegypt/public_html/1egypt/app/routes.php on line 66
+[05-May-2015 11:21:50 EST] PHP Fatal error:  Call to a member function url() on a non-object in /home/oneegypt/public_html/1egypt/app/routes.php on line 66
+[05-May-2015 15:37:24 EST] PHP Fatal error:  Call to undefined method Illuminate\Database\Eloquent\Collection::orderBy() in /home/oneegypt/public_html/1egypt/app/controllers/HomeController.php on line 47
+[06-May-2015 10:32:51 EST] PHP Fatal error:  Class 'Imagick' not found in /home/oneegypt/public_html/1egypt/app/routes.php on line 94
+[06-May-2015 10:34:08 EST] PHP Fatal error:  Class 'Imagick' not found in /home/oneegypt/public_html/1egypt/app/routes.php on line 94
+[06-May-2015 10:46:36 EST] PHP Fatal error:  Class 'Imagick' not found in /home/oneegypt/public_html/1egypt/app/routes.php on line 94
+[06-May-2015 15:32:24 EST] PHP Parse error:  syntax error, unexpected ''.jpg'' (T_CONSTANT_ENCAPSED_STRING) in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 27
+[07-May-2015 07:32:36 EST] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home/oneegypt/public_html/1egypt/app/routes.php on line 111
+[07-May-2015 07:32:55 EST] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home/oneegypt/public_html/1egypt/app/routes.php on line 111
+[07-May-2015 07:33:08 EST] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home/oneegypt/public_html/1egypt/app/routes.php on line 111
+[07-May-2015 08:08:33 EST] PHP Fatal error:  Call to undefined method Illuminate\Http\Request::_token() in /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate/Http/Request.php on line 415
+[07-May-2015 09:40:26 EST] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[07-May-2015 09:40:34 EST] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[07-May-2015 09:41:09 EST] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[07-May-2015 09:41:13 EST] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[07-May-2015 09:41:36 EST] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[07-May-2015 09:46:49 EST] PHP Fatal error:  Cannot redeclare Post::forum() in /home/oneegypt/public_html/1egypt/app/models/Post.php on line 36
+[07-May-2015 09:47:03 EST] PHP Fatal error:  Cannot redeclare Post::forum() in /home/oneegypt/public_html/1egypt/app/models/Post.php on line 36
+[07-May-2015 09:47:14 EST] PHP Fatal error:  Cannot redeclare Post::forum() in /home/oneegypt/public_html/1egypt/app/models/Post.php on line 36
+[07-May-2015 09:47:22 EST] PHP Fatal error:  Cannot redeclare Post::forum() in /home/oneegypt/public_html/1egypt/app/models/Post.php on line 36
+[07-May-2015 09:47:37 EST] PHP Fatal error:  Cannot redeclare Post::forum() in /home/oneegypt/public_html/1egypt/app/models/Post.php on line 36
+[07-May-2015 09:49:07 EST] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[07-May-2015 09:50:58 EST] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[07-May-2015 10:40:49 EST] PHP Fatal error:  Call to a member function sum() on a non-object in /home/oneegypt/public_html/1egypt/app/views/stories/post_created.php on line 4
+[07-May-2015 10:41:54 EST] PHP Fatal error:  Call to a member function first() on a non-object in /home/oneegypt/public_html/1egypt/app/views/stories/post_created.php on line 4
+[07-May-2015 10:42:05 EST] PHP Fatal error:  Call to a member function get() on a non-object in /home/oneegypt/public_html/1egypt/app/views/stories/post_created.php on line 4
+[07-May-2015 10:42:44 EST] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[08-May-2015 07:33:45 EST] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING) in /home/oneegypt/public_html/1egypt/app/routes.php on line 85
+[08-May-2015 12:44:12 UTC] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[08-May-2015 12:44:35 UTC] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[08-May-2015 12:44:46 UTC] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[08-May-2015 12:45:15 UTC] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[08-May-2015 12:45:26 UTC] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[08-May-2015 12:46:57 UTC] PHP Parse error:  syntax error, unexpected '$numberOfUnits' (T_VARIABLE), expecting ',' or ';' in /home/oneegypt/public_html/1egypt/app/views/stories/post_created.php on line 50
+[08-May-2015 09:06:49 America/New_York] PHP Fatal error:  Call to a member function thumbnail() on a non-object in /home/oneegypt/public_html/1egypt/app/views/comments.php on line 11
+[08-May-2015 09:21:06 America/New_York] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting ')' in /home/oneegypt/public_html/1egypt/app/routes.php on line 158
+[08-May-2015 09:22:04 America/New_York] PHP Fatal error:  Call to undefined method DOMElement::attributes() in /home/oneegypt/public_html/1egypt/app/routes.php on line 159
+[08-May-2015 09:23:37 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/oneegypt/public_html/1egypt/app/routes.php on line 159
+[08-May-2015 09:30:49 America/New_York] PHP Fatal error:  Class 'OpenGraph' not found in /home/oneegypt/public_html/1egypt/app/routes.php on line 152
+[08-May-2015 10:44:01 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/oneegypt/public_html/1egypt/app/controllers/HomeController.php on line 90
+[10-May-2015 09:52:50 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[10-May-2015 09:53:56 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[10-May-2015 09:54:34 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[10-May-2015 09:55:32 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[10-May-2015 09:55:46 America/New_York] PHP Fatal error:  Cannot break/continue 1 level in /home/oneegypt/public_html/1egypt/app/views/stories/post_created.php on line 30
+[10-May-2015 09:56:24 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[10-May-2015 09:56:39 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[10-May-2015 09:56:47 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[10-May-2015 09:57:16 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[10-May-2015 09:57:23 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[11-May-2015 09:41:57 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/oneegypt/public_html/1egypt/app/controllers/HomeController.php on line 30
+[11-May-2015 10:07:00 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[11-May-2015 10:07:14 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[11-May-2015 10:07:39 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[11-May-2015 10:08:09 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[11-May-2015 10:08:22 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[11-May-2015 10:08:57 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[11-May-2015 10:10:01 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[11-May-2015 10:10:19 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[11-May-2015 10:12:03 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[11-May-2015 10:13:17 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[11-May-2015 10:21:47 America/New_York] PHP Parse error:  syntax error, unexpected '?>', expecting variable (T_VARIABLE) or '$' in /home/oneegypt/public_html/1egypt/app/views/comments.php on line 14
+[11-May-2015 10:22:00 America/New_York] PHP Parse error:  syntax error, unexpected '?>' in /home/oneegypt/public_html/1egypt/app/views/comments.php on line 14
+[11-May-2015 10:22:13 America/New_York] PHP Parse error:  syntax error, unexpected '?>' in /home/oneegypt/public_html/1egypt/app/views/comments.php on line 14
+[11-May-2015 14:34:40 America/New_York] PHP Parse error:  syntax error, unexpected '$user_id' (T_VARIABLE), expecting '(' in /home/oneegypt/public_html/1egypt/app/routes.php on line 156
+[11-May-2015 14:34:43 America/New_York] PHP Parse error:  syntax error, unexpected '$user_id' (T_VARIABLE), expecting '(' in /home/oneegypt/public_html/1egypt/app/routes.php on line 156
+[11-May-2015 14:34:56 America/New_York] PHP Parse error:  syntax error, unexpected 'use' (T_USE), expecting ')' in /home/oneegypt/public_html/1egypt/app/routes.php on line 156
+[11-May-2015 14:35:23 America/New_York] PHP Parse error:  syntax error, unexpected '$user_id' (T_VARIABLE), expecting '(' in /home/oneegypt/public_html/1egypt/app/routes.php on line 156
+[11-May-2015 14:40:02 America/New_York] PHP Fatal error:  Call to a member function thumbnail() on a non-object in /home/oneegypt/public_html/1egypt/app/views/threads.php on line 19
+[11-May-2015 14:42:20 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/oneegypt/public_html/1egypt/app/views/threads.php on line 13
+[11-May-2015 14:42:27 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/oneegypt/public_html/1egypt/app/views/threads.php on line 13
+[11-May-2015 14:43:17 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/oneegypt/public_html/1egypt/app/views/threads.php on line 13
+[11-May-2015 14:43:25 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/oneegypt/public_html/1egypt/app/views/threads.php on line 13
+[12-May-2015 10:38:11 America/New_York] PHP Fatal error:  Call to undefined method Illuminate\Database\Eloquent\Collection::skip() in /home/oneegypt/public_html/1egypt/app/views/comments.php on line 7
+[12-May-2015 10:38:26 America/New_York] PHP Fatal error:  Call to undefined method Illuminate\Database\Eloquent\Collection::skip() in /home/oneegypt/public_html/1egypt/app/views/comments.php on line 7
+[12-May-2015 12:44:48 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[12-May-2015 12:44:54 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[12-May-2015 12:45:07 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[12-May-2015 12:49:17 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/routes.php on line 0
+[12-May-2015 12:50:19 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/routes.php on line 0
+[12-May-2015 12:52:14 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/routes.php on line 0
+[12-May-2015 12:55:18 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/routes.php on line 0
+[12-May-2015 13:32:34 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/routes.php on line 0
+[12-May-2015 14:36:08 America/New_York] PHP Fatal error:  Call to undefined function ago() in /home/oneegypt/public_html/1egypt/app/views/threads.php on line 18
+[12-May-2015 14:36:37 America/New_York] PHP Fatal error:  Call to undefined function ago() in /home/oneegypt/public_html/1egypt/app/views/threads.php on line 18
+[12-May-2015 14:37:46 America/New_York] PHP Fatal error:  Call to undefined function ago() in /home/oneegypt/public_html/1egypt/app/views/threads.php on line 18
+[12-May-2015 14:43:57 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[12-May-2015 15:21:55 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[12-May-2015 16:34:15 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/oneegypt/public_html/1egypt/app/views/forums.php on line 40
+[12-May-2015 16:42:28 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/oneegypt/public_html/1egypt/app/views/forums.php on line 84
+[14-May-2015 09:25:36 America/New_York] PHP Parse error:  syntax error, unexpected ';', expecting function (T_FUNCTION) in /home/oneegypt/public_html/1egypt/app/models/User.php on line 12
+[14-May-2015 10:06:16 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 84
+[14-May-2015 12:48:56 America/New_York] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/oneegypt/public_html/1egypt/app/routes.php on line 220
+[14-May-2015 20:24:22 America/New_York] PHP Parse error:  syntax error, unexpected ''='' (T_CONSTANT_ENCAPSED_STRING) in /home/oneegypt/public_html/1egypt/app/routes.php on line 244
+[14-May-2015 20:28:49 America/New_York] PHP Fatal error:  Call to undefined method Illuminate\Routing\Redirector::intend() in /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 208
+[14-May-2015 20:45:44 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 164
+[15-May-2015 09:19:54 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/oneegypt/public_html/1egypt/app/views/stories/donation.php on line 38
+[15-May-2015 10:21:54 America/New_York] PHP Parse error:  syntax error, unexpected ''</a> gave $'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/oneegypt/public_html/1egypt/app/views/campaignView.php on line 28
+[15-May-2015 10:22:36 America/New_York] PHP Fatal error:  Call to undefined method Illuminate\Database\Eloquent\Collection::orderBy() in /home/oneegypt/public_html/1egypt/app/views/campaignView.php on line 26
+[18-May-2015 10:54:24 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/oneegypt/public_html/1egypt/app/routes.php on line 351
+[18-May-2015 11:35:04 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/campaignView.php on line 0
+[18-May-2015 11:35:11 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/campaignView.php on line 0
+[18-May-2015 11:35:38 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/campaignView.php on line 0
+[18-May-2015 11:36:14 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/campaignView.php on line 0
+[18-May-2015 11:36:33 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/campaignView.php on line 0
+[18-May-2015 11:36:49 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/campaignView.php on line 0
+[18-May-2015 11:36:59 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/campaignView.php on line 0
+[18-May-2015 15:25:27 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/oneegypt/public_html/1egypt/app/models/User.php on line 65
+[19-May-2015 10:43:53 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/oneegypt/public_html/1egypt/app/views/editProfile.php on line 61
+[19-May-2015 12:01:06 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/oneegypt/public_html/1egypt/app/routes.php on line 101
+[19-May-2015 14:11:54 America/New_York] PHP Fatal error:  Class 'Sessio' not found in /home/oneegypt/public_html/1egypt/app/views/settings/billing.php on line 5
+[19-May-2015 14:21:07 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[19-May-2015 14:21:34 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[20-May-2015 08:18:25 America/New_York] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/oneegypt/public_html/1egypt/app/controllers/MessageController.php on line 28
+[20-May-2015 08:24:16 America/New_York] PHP Fatal error:  Call to undefined function sizoef() in /home/oneegypt/public_html/1egypt/app/controllers/MessageController.php on line 34
+[20-May-2015 14:27:18 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/oneegypt/public_html/1egypt/app/views/campaignView.php on line 23
+[20-May-2015 14:49:41 America/New_York] PHP Fatal error:  Call to undefined method stdClass::thumbnail() in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 155
+[20-May-2015 14:56:52 America/New_York] PHP Fatal error:  Class 'User' not found in /home/oneegypt/public_html/1egypt/bootstrap/start.php on line 62
+[26-May-2015 14:37:19 America/New_York] PHP Parse error:  syntax error, unexpected ''placeholder'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/oneegypt/public_html/1egypt/app/views/settings/profile.php on line 39
+[27-May-2015 11:33:44 America/New_York] PHP Fatal error:  Call to undefined method stdClass::thumbnail() in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 232
+[28-May-2015 11:59:47 America/New_York] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting '(' in /home/oneegypt/public_html/1egypt/app/controllers/AdminController.php on line 26
+[28-May-2015 12:00:08 America/New_York] PHP Parse error:  syntax error, unexpected 'use' (T_USE), expecting ')' in /home/oneegypt/public_html/1egypt/app/controllers/AdminController.php on line 26
+[28-May-2015 12:00:43 America/New_York] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting '(' in /home/oneegypt/public_html/1egypt/app/controllers/AdminController.php on line 26
+[28-May-2015 13:10:27 America/New_York] PHP Fatal error:  Unsupported operand types in /home/oneegypt/public_html/1egypt/app/views/admin/organizations.php on line 6
+[03-Jun-2015 15:50:43 America/New_York] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/oneegypt/public_html/1egypt/app/routes.php on line 725
+[04-Jun-2015 15:22:28 America/New_York] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/oneegypt/public_html/1egypt/app/controllers/HomeController.php on line 93
+[04-Jun-2015 15:29:33 America/New_York] PHP Parse error:  syntax error, unexpected 'u' (T_STRING), expecting '&' or variable (T_VARIABLE) in /home/oneegypt/public_html/1egypt/app/models/FeedStory.php on line 24
+[04-Jun-2015 15:31:42 America/New_York] PHP Parse error:  syntax error, unexpected '$', expecting '&' or variable (T_VARIABLE) in /home/oneegypt/public_html/1egypt/app/models/FeedStory.php on line 24
+[04-Jun-2015 15:35:48 America/New_York] PHP Fatal error:  Call to a member function addEagerConstraints() on a non-object in /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 467
+[05-Jun-2015 14:28:00 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/oneegypt/public_html/1egypt/app/controllers/RegistrationController.php on line 95
+[08-Jun-2015 11:56:26 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/oneegypt/public_html/1egypt/app/routes.php on line 660
+[08-Jun-2015 13:23:53 America/New_York] PHP Parse error:  syntax error, unexpected 'time' (T_STRING), expecting ')' in /home/oneegypt/public_html/1egypt/app/routes.php on line 655
+[08-Jun-2015 16:13:24 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/forums.php on line 0
+[08-Jun-2015 16:13:42 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/forums.php on line 0
+[08-Jun-2015 16:13:57 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/forums.php on line 0
+[08-Jun-2015 16:14:17 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/login.php on line 0
+[08-Jun-2015 16:14:20 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/login.php on line 0
+[08-Jun-2015 16:14:36 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/login.php on line 0
+[08-Jun-2015 16:15:07 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/forums.php on line 0
+[08-Jun-2015 16:15:29 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/forums.php on line 0
+[08-Jun-2015 16:16:03 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/login.php on line 0
+[08-Jun-2015 16:16:07 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/login.php on line 0
+[08-Jun-2015 16:16:35 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/forums.php on line 0
+[08-Jun-2015 16:16:39 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/login.php on line 0
+[08-Jun-2015 16:16:41 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/login.php on line 0
+[08-Jun-2015 16:17:43 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[08-Jun-2015 16:18:20 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/forums.php on line 0
+[08-Jun-2015 16:19:45 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[08-Jun-2015 16:20:43 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[09-Jun-2015 10:44:25 America/New_York] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/oneegypt/public_html/1egypt/app/controllers/MessageController.php on line 6
+[09-Jun-2015 10:44:57 America/New_York] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/oneegypt/public_html/1egypt/app/controllers/MessageController.php on line 6
+[09-Jun-2015 12:08:19 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/oneegypt/public_html/1egypt/app/views/navigation.php on line 16
+[09-Jun-2015 12:14:20 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[09-Jun-2015 12:15:10 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[09-Jun-2015 12:17:36 America/New_York] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception in /home/oneegypt/public_html/1egypt/app/views/profile.php on line 0
+[10-Jun-2015 11:48:15 America/New_York] PHP Fatal error:  Call to undefined function wp_footer() in /home/oneegypt/public_html/1egypt/app/views/footer.php on line 246
+[10-Jun-2015 11:48:18 America/New_York] PHP Fatal error:  Call to undefined function wp_footer() in /home/oneegypt/public_html/1egypt/app/views/footer.php on line 246
+[10-Jun-2015 11:48:25 America/New_York] PHP Fatal error:  Call to undefined function wp_footer() in /home/oneegypt/public_html/1egypt/app/views/footer.php on line 246
+[10-Jun-2015 11:48:27 America/New_York] PHP Fatal error:  Call to undefined function wp_footer() in /home/oneegypt/public_html/1egypt/app/views/footer.php on line 246
+[11-Jun-2015 10:13:25 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/oneegypt/public_html/1egypt/app/views/forumSettings.php on line 56
+[11-Jun-2015 12:17:04 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/oneegypt/public_html/1egypt/app/views/stories/post_created.php on line 48
+[11-Jun-2015 12:32:25 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/oneegypt/public_html/1egypt/app/routes.php on line 91
+[11-Jun-2015 12:32:54 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/oneegypt/public_html/1egypt/app/routes.php on line 91
+[11-Jun-2015 16:01:31 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/oneegypt/public_html/1egypt/app/controllers/ForumController.php on line 87
+[11-Jun-2015 16:24:20 America/New_York] PHP Fatal error:  Cannot redeclare class Forum in /home/oneegypt/public_html/1egypt/app/models/ForumFollower.php on line 22
+[15-Jun-2015 13:17:43 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 25956 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 38
+[15-Jun-2015 14:59:22 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/oneegypt/public_html/1egypt/app/routes.php on line 829
+[15-Jun-2015 15:24:58 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/oneegypt/public_html/1egypt/app/routes.php on line 829
+[15-Jun-2015 15:25:21 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/oneegypt/public_html/1egypt/app/routes.php on line 829
+[15-Jun-2015 15:55:47 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/oneegypt/public_html/1egypt/app/routes.php on line 829
+[15-Jun-2015 16:24:09 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/oneegypt/public_html/1egypt/app/routes.php on line 829
+[15-Jun-2015 16:37:07 America/New_York] PHP Parse error:  syntax error, unexpected ''full-time'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/oneegypt/public_html/1egypt/app/views/postJob.php on line 50
+[15-Jun-2015 21:27:45 America/New_York] PHP Parse error:  syntax error, unexpected '?' in /home/oneegypt/public_html/1egypt/app/views/work.php on line 106
+[16-Jun-2015 09:25:18 America/New_York] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: mainQuery' in /home/oneegypt/public_html/1egypt/app/controllers/HomeController.php:326
+Stack trace:
+#0 /home/oneegypt/public_html/1egypt/app/controllers/HomeController.php(326): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/oneegypt/...', 326, Array)
+#1 [internal function]: HomeController->workHome()
+#2 /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(231): call_user_func_array(Array, Array)
+#3 /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('workHome', Array)
+#4 /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(HomeController), Object(Illuminate\Routing\Route), 'workHome')
+#5 /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate in /home/oneegypt/public_html/1egypt/app/controllers/HomeController.php on line 326
+[16-Jun-2015 09:25:18 America/New_York] PHP Fatal error:  Call to a member function orderBy() on a non-object in /home/oneegypt/public_html/1egypt/app/controllers/HomeController.php on line 326
+[18-Jun-2015 14:31:41 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/oneegypt/public_html/1egypt/app/routes.php on line 846
+[18-Jun-2015 15:58:25 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/oneegypt/public_html/1egypt/app/controllers/HomeController.php on line 353
+[18-Jun-2015 15:59:25 America/New_York] PHP Fatal error:  Call to undefined method Illuminate\Database\Query\Expression::having() in /home/oneegypt/public_html/1egypt/app/controllers/HomeController.php on line 350
+[22-Jun-2015 11:33:15 America/New_York] PHP Fatal error:  Class 'ForumThread' not found in /home/oneegypt/public_html/1egypt/app/controllers/ForumController.php on line 109
+[22-Jun-2015 11:33:23 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/oneegypt/public_html/1egypt/app/models/ForumThread.php on line 17
+[22-Jun-2015 11:33:31 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/oneegypt/public_html/1egypt/app/models/ForumPost.php on line 17
+[22-Jun-2015 11:33:36 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/oneegypt/public_html/1egypt/app/models/ForumPost.php on line 17
+[22-Jun-2015 11:52:04 America/New_York] PHP Fatal error:  Call to undefined function size() in /home/oneegypt/public_html/1egypt/app/views/forum.php on line 116
+[22-Jun-2015 11:52:16 America/New_York] PHP Fatal error:  Class 'ForumPosts' not found in /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 861
+[23-Jun-2015 14:44:50 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/oneegypt/public_html/1egypt/app/views/admin/users.php on line 15
+[23-Jun-2015 16:27:34 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/oneegypt/public_html/1egypt/app/models/Forum.php on line 26
+[24-Jun-2015 09:34:27 America/New_York] PHP Fatal error:  Call to undefined method Illuminate\Database\Eloquent\Collection::with() in /home/oneegypt/public_html/1egypt/app/views/forum.php on line 127
+[24-Jun-2015 16:26:27 America/New_York] PHP Fatal error:  Call to a member function withTrashed() on a non-object in /home/oneegypt/public_html/1egypt/app/routes.php on line 913
+[25-Jun-2015 15:46:14 America/New_York] PHP Parse error:  syntax error, unexpected 'Auth' (T_STRING) in /home/oneegypt/public_html/1egypt/app/controllers/ForumController.php on line 13
+[26-Jun-2015 09:44:06 America/New_York] PHP Fatal error:  Class 'Posts' not found in /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 885
+[26-Jun-2015 09:46:25 America/New_York] PHP Fatal error:  Cannot redeclare Forum::posts() in /home/oneegypt/public_html/1egypt/app/models/Forum.php on line 45
+[26-Jun-2015 09:46:36 America/New_York] PHP Fatal error:  Cannot redeclare Forum::posts() in /home/oneegypt/public_html/1egypt/app/models/Forum.php on line 45
+[26-Jun-2015 09:47:03 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/oneegypt/public_html/1egypt/app/views/forumSearch.php on line 28
+[26-Jun-2015 12:38:56 America/New_York] PHP Fatal error:  Cannot access protected property Illuminate\Validation\Validator::$messages in /home/oneegypt/public_html/1egypt/app/controllers/HomeController.php on line 125
+[10-Jul-2015 10:54:15 America/New_York] PHP Fatal error:  Cannot redeclare Forum::cat() in /home/oneegypt/public_html/1egypt/app/models/Forum.php on line 45
+[10-Jul-2015 15:54:28 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
+[13-Jul-2015 20:12:02 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/oneegypt/public_html/1egypt/app/views/dialogue.php on line 111
+[13-Jul-2015 20:16:03 America/New_York] PHP Parse error:  syntax error, unexpected '$last_posted' (T_VARIABLE) in /home/oneegypt/public_html/1egypt/app/views/dialogue.php on line 95
+[14-Jul-2015 14:41:31 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
+[14-Jul-2015 16:14:11 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/oneegypt/public_html/1egypt/app/views/stories/post_created.php on line 138
+[15-Jul-2015 14:46:30 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
+[15-Jul-2015 14:57:12 America/New_York] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM) in /home/oneegypt/public_html/1egypt/app/routes.php on line 974
+[15-Jul-2015 16:22:42 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
+[15-Jul-2015 16:50:04 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
+[15-Jul-2015 16:50:09 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
+[15-Jul-2015 16:56:41 America/New_York] PHP Fatal error:  Call to a member function addEagerConstraints() on a non-object in /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 467
+[15-Jul-2015 16:58:19 America/New_York] PHP Fatal error:  Call to a member function addEagerConstraints() on a non-object in /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 467
+[16-Jul-2015 13:39:32 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
+[16-Jul-2015 13:39:37 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
+[16-Jul-2015 13:39:55 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
+[16-Jul-2015 14:07:13 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
+[16-Jul-2015 15:01:12 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
+[16-Jul-2015 15:01:18 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
+[16-Jul-2015 15:01:49 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
+[16-Jul-2015 15:21:24 America/New_York] PHP Fatal error:  Class 'Inut' not found in /home/oneegypt/public_html/1egypt/app/controllers/AdminController.php on line 122
+[16-Jul-2015 15:58:58 America/New_York] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM) in /home/oneegypt/public_html/1egypt/app/routes.php on line 980
+[16-Jul-2015 16:01:07 America/New_York] PHP Parse error:  syntax error, unexpected 'get' (T_STRING) in /home/oneegypt/public_html/1egypt/app/routes.php on line 980
+[16-Jul-2015 16:01:08 America/New_York] PHP Parse error:  syntax error, unexpected 'get' (T_STRING) in /home/oneegypt/public_html/1egypt/app/routes.php on line 980
+[16-Jul-2015 16:13:24 America/New_York] PHP Parse error:  syntax error, unexpected ''p2.posted_by'' (T_CONSTANT_ENCAPSED_STRING) in /home/oneegypt/public_html/1egypt/app/routes.php on line 983
+[16-Jul-2015 16:53:23 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
+[16-Jul-2015 16:53:27 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
+[17-Jul-2015 13:19:38 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
+[17-Jul-2015 13:19:42 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
+[20-Jul-2015 14:26:56 America/New_York] PHP Fatal error:  Call to a member function addEagerConstraints() on a non-object in /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 467
+[20-Jul-2015 14:27:51 America/New_York] PHP Fatal error:  Call to a member function addEagerConstraints() on a non-object in /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 467
+[21-Jul-2015 14:52:40 America/New_York] PHP Fatal error:  Call to undefined method Illuminate\Database\Eloquent\Collection::save() in /home/oneegypt/public_html/1egypt/app/routes.php on line 1102
+[21-Jul-2015 15:40:27 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/oneegypt/public_html/1egypt/app/routes.php on line 1217
+[21-Jul-2015 15:40:29 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/oneegypt/public_html/1egypt/app/routes.php on line 1217
+[21-Jul-2015 15:40:45 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/oneegypt/public_html/1egypt/app/routes.php on line 1217
+[22-Jul-2015 11:09:01 America/New_York] PHP Fatal error:  Call to a member function addEagerConstraints() on a non-object in /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 467
+[22-Jul-2015 15:07:20 America/New_York] PHP Fatal error:  Call to undefined function rm() in /home/oneegypt/public_html/1egypt/app/routes.php on line 1235
+[22-Jul-2015 15:07:35 America/New_York] PHP Fatal error:  Call to undefined function delete_file() in /home/oneegypt/public_html/1egypt/app/routes.php on line 1235
+[22-Jul-2015 15:07:46 America/New_York] PHP Fatal error:  Call to undefined function delete() in /home/oneegypt/public_html/1egypt/app/routes.php on line 1235
+[22-Jul-2015 15:10:47 America/New_York] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/oneegypt/public_html/1egypt/app/routes.php on line 1237
+[22-Jul-2015 15:11:01 America/New_York] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/oneegypt/public_html/1egypt/app/routes.php on line 1237
+[23-Jul-2015 17:14:45 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
+[23-Jul-2015 17:14:50 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
+[23-Jul-2015 23:31:24 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
+[23-Jul-2015 23:31:27 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
+[23-Jul-2015 23:31:47 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
+[24-Jul-2015 15:35:51 America/New_York] PHP Parse error:  syntax error, unexpected ''/1'' (T_CONSTANT_ENCAPSED_STRING) in /home/oneegypt/public_html/1egypt/app/controllers/ForumController.php on line 165
+[24-Jul-2015 15:35:52 America/New_York] PHP Parse error:  syntax error, unexpected ''/1'' (T_CONSTANT_ENCAPSED_STRING) in /home/oneegypt/public_html/1egypt/app/controllers/ForumController.php on line 165
+[03-Aug-2015 10:27:58 America/New_York] PHP Parse error:  syntax error, unexpected 'use' (T_USE), expecting ')' in /home/oneegypt/public_html/1egypt/app/routes.php on line 641
+[03-Aug-2015 10:28:07 America/New_York] PHP Parse error:  syntax error, unexpected '$lat' (T_VARIABLE), expecting '(' in /home/oneegypt/public_html/1egypt/app/routes.php on line 641
+[03-Aug-2015 10:28:31 America/New_York] PHP Parse error:  syntax error, unexpected 'use' (T_USE), expecting ')' in /home/oneegypt/public_html/1egypt/app/routes.php on line 641
+[03-Aug-2015 13:27:28 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
+[03-Aug-2015 13:27:36 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
+[03-Aug-2015 14:07:47 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
+[03-Aug-2015 14:09:36 America/New_York] PHP Fatal error:  Class 'Validation' not found in /home/oneegypt/public_html/1egypt/app/start/global.php on line 198
+[03-Aug-2015 14:10:35 America/New_York] PHP Fatal error:  Cannot access protected property Illuminate\Validation\Validator::$messages in /home/oneegypt/public_html/1egypt/app/start/global.php on line 206
+[03-Aug-2015 14:12:19 America/New_York] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/oneegypt/public_html/1egypt/app/start/global.php on line 199
+[03-Aug-2015 14:20:59 America/New_York] PHP Parse error:  syntax error, unexpected ''description_txt'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/oneegypt/public_html/1egypt/app/start/global.php on line 197
+[04-Aug-2015 13:32:18 America/New_York] PHP Fatal error:  Class name must be a valid object or a string in /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 733
+[05-Aug-2015 12:04:27 America/New_York] PHP Fatal error:  Call to undefined function str_slug() in /home/oneegypt/public_html/1egypt/app/routes.php on line 1367
+[05-Aug-2015 12:18:37 America/New_York] PHP Fatal error:  Call to undefined function hasOne() in /home/oneegypt/public_html/1egypt/app/models/Bookmark.php on line 21
+[05-Aug-2015 12:18:42 America/New_York] PHP Fatal error:  Call to undefined function hasOne() in /home/oneegypt/public_html/1egypt/app/models/Bookmark.php on line 21
+[05-Aug-2015 14:29:43 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/oneegypt/public_html/1egypt/app/views/search.php on line 12
+[05-Aug-2015 14:30:20 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/oneegypt/public_html/1egypt/app/views/search.php on line 12
+[07-Aug-2015 10:27:54 America/New_York] PHP Fatal error:  Class 'Carbon' not found in /home/oneegypt/public_html/1egypt/app/controllers/HomeController.php on line 139
+[07-Aug-2015 12:05:56 America/New_York] PHP Fatal error:  Class 'Memcached' not found in /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate/Cache/MemcachedConnector.php on line 44
+[07-Aug-2015 12:05:59 America/New_York] PHP Fatal error:  Class 'Memcached' not found in /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate/Cache/MemcachedConnector.php on line 44
+[08-Aug-2015 13:30:41 America/New_York] PHP Fatal error:  Call to undefined method Illuminate\Database\Eloquent\Collection::attach() in /home/oneegypt/public_html/1egypt/app/routes.php on line 945
+[12-Aug-2015 15:16:44 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/oneegypt/public_html/1egypt/app/controllers/ForumController.php on line 119
+[12-Aug-2015 15:16:54 America/New_York] PHP Fatal error:  Class 'Validation' not found in /home/oneegypt/public_html/1egypt/app/controllers/ForumController.php on line 111
+[12-Aug-2015 15:18:57 America/New_York] PHP Fatal error:  Call to undefined method Illuminate\Http\Request::topic() in /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate/Http/Request.php on line 415
+[12-Aug-2015 15:32:57 America/New_York] PHP Fatal error:  Call to a member function addEagerConstraints() on a non-object in /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 467
+[12-Aug-2015 15:32:58 America/New_York] PHP Fatal error:  Call to a member function addEagerConstraints() on a non-object in /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 467
+[12-Aug-2015 15:38:41 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/oneegypt/public_html/1egypt/app/controllers/HomeController.php on line 123
+[12-Aug-2015 15:50:32 America/New_York] PHP Fatal error:  Call to undefined function Illuminate\Cache\apc_fetch() in /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate/Cache/ApcWrapper.php on line 30
+[12-Aug-2015 16:11:53 America/New_York] PHP Fatal error:  Class 'Memcached' not found in /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate/Cache/MemcachedConnector.php on line 44
+[12-Aug-2015 16:12:04 America/New_York] PHP Fatal error:  Class 'Memcached' not found in /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate/Cache/MemcachedConnector.php on line 44
+[12-Aug-2015 16:16:01 America/New_York] PHP Fatal error:  Class 'Memcached' not found in /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate/Cache/MemcachedConnector.php on line 44
+[12-Aug-2015 16:20:43 America/New_York] PHP Fatal error:  Class 'Memcached' not found in /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate/Cache/MemcachedConnector.php on line 44
+[12-Aug-2015 16:36:40 America/New_York] PHP Fatal error:  Class 'Memcached' not found in /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate/Cache/MemcachedConnector.php on line 44
+[13-Aug-2015 19:05:45 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
+[15-Aug-2015 10:04:23 America/New_York] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/oneegypt/public_html/1egypt/app/routes.php on line 757
+[15-Aug-2015 10:07:38 America/New_York] PHP Fatal error:  Call to a member function where() on a non-object in /home/oneegypt/public_html/1egypt/app/routes.php on line 759
+[18-Aug-2015 11:39:18 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
+[18-Aug-2015 13:02:25 America/New_York] PHP Fatal error:  Call to undefined function add_slashes() in /home/oneegypt/public_html/1egypt/app/views/admin/forum.php on line 78
+[18-Aug-2015 17:24:57 America/New_York] PHP Fatal error:  Call to undefined method KevBaldwyn\Image\Image::resize() in /home/oneegypt/public_html/1egypt/app/views/forum.php on line 15
+[19-Aug-2015 10:56:23 America/New_York] PHP Fatal error:  Call to undefined method KevBaldwyn\Image\Image::create() in /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 208
+[19-Aug-2015 10:57:32 America/New_York] PHP Fatal error:  Class 'Imagecow' not found in /home/oneegypt/public_html/1egypt/app/controllers/AdminController.php on line 163
+[26-Aug-2015 14:34:06 America/New_York] PHP Fatal error:  Call to undefined function camelcase() in /home/oneegypt/public_html/1egypt/app/views/work.php on line 153
+[27-Aug-2015 19:10:59 America/New_York] PHP Fatal error:  Call to undefined method Illuminate\Http\Request::isAjax() in /home/oneegypt/public_html/1egypt/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 205
+[02-Sep-2015 15:21:57 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/oneegypt/public_html/1egypt/app/routes.php on line 1467
+[02-Sep-2015 15:22:02 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/oneegypt/public_html/1egypt/app/routes.php on line 1467
+[02-Sep-2015 15:22:18 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/oneegypt/public_html/1egypt/app/routes.php on line 1467
+[02-Sep-2015 15:22:20 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/oneegypt/public_html/1egypt/app/routes.php on line 1467
+[13-Jan-2016 04:04:01 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3840001 bytes) in /home/oneegypt/public_html/1egypt/vendor/imagecow/imagecow/src/Libs/Gd.php on line 136
